@@ -1,5 +1,5 @@
 # rps4cpp
-![image](https://user-images.githubusercontent.com/44921082/102684285-8bfb0980-421a-11eb-93aa-90fb76b452e5.png)
+![image](https://user-images.githubusercontent.com/44921082/102684335-dd0afd80-421a-11eb-8a6b-6ddc33a6a705.png)
 
 じゃんけんができます。
 それだけです。
